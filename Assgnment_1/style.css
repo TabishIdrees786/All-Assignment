@@ -1,0 +1,23 @@
+body{
+    background-color: black ;
+}
+p{
+    color: #fff;
+}
+.per{
+    background-color: blueviolet;
+}
+th:hover{
+    background-color: #fff;
+}
+.perd{
+    width: 100%;
+}
+.mar{
+    background-color: lightsalmon;
+}
+.footer{
+    background-color: blueviolet;
+    text-align: center;
+    color: #fff;
+}
